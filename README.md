@@ -1,6 +1,6 @@
 # QuickSwap Subgraph
 
-This repository has been forked from [UniswapV2]()
+This repository has been forked from [QuickSwap]()
 
 This subgraph dynamically tracks any pair created by the QuickSwap factory. It tracks of the current state of QuickSwap contracts, and contains derived stats for things like historical data and USD prices.
 
